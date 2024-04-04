@@ -21,7 +21,7 @@
 - 😄 Pronouns: He/him
 
 ### Technical Skills
-<img src="https://img.shields.io/badge/-React-0D0D0D?style=flat&logo=React"> <img src="https://img.shields.io/badge/-Redux-0D0D0D?style=flat&logo=Redux"> </br>
+<img src="https://img.shields.io/badge/-React-0D0D0D?style=flat&logo=React">  <img src="https://img.shields.io/badge/-NextJs-0D0D0D?style=flat&logo=Next"> <img src="https://img.shields.io/badge/-Redux-0D0D0D?style=flat&logo=Redux"> </br>
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">  <br />
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">
